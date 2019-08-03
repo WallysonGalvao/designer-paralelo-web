@@ -1,0 +1,6 @@
+Todas as imagens são no formato .png
+
+-- Home --
+400x271 - Pixels
+400 - Largura
+271 - Altura
